@@ -1,0 +1,7 @@
+[package]
+name = "stars_alignment"
+version = "0.1.0"
+authors = ["Andrzej Pragacz <apragacz@o2.pl>"]
+
+[dependencies]
+image = "0.20.1"
